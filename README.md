@@ -3,7 +3,7 @@
 ## Data Analyst | Upskilling in Data Science & Machine Learning | Ex-Senior Software Engineer
 
 ## About me
-I'm a Senior Software Engineer with 5+ years of experience. I am currently working in data Analysis field and i have a strong & exhaustive skillset in SQL, Python, BI Tools & Statistics.
+I'm a Senior Software Engineer with 5+ years of experience. I am currently working in data Analysis field and I have a strong & exhaustive skillset in SQL, Python, BI Tools & Statistics.
 
 Skills:
 
