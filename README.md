@@ -26,9 +26,12 @@ Business Case 1: Yulu-Hypothesis-Testing
 
 Link : https://github.com/Sutapa94/Yulu-Hypothesis-Testing
 
-Business Case 1: Delhivery-Feature-Engineering
+Business Case 2: Delhivery-Feature-Engineering
 
 Link : https://github.com/Sutapa94/Delhivery-Feature-Engineering
 
+Business Case 3: AtliQ-Technologies-Sales-Analysis
+
+Link : https://github.com/Sutapa94/AtliQ-Tableau-Analysis
 
 
